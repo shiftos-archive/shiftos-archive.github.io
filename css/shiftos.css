@@ -12,3 +12,16 @@ body, html
 	background: #fff;
 	color: #000;
 }
+
+.desktop-panel
+{
+	background: gray;
+	color: #000;
+	margin: 4px;
+}
+
+.app-launcher-button
+{
+	font-weight: bold;
+	text-decoration: none;
+}
